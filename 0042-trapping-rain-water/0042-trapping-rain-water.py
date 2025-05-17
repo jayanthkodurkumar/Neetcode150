@@ -18,14 +18,14 @@ class Solution:
                 right = i
                 break
 
-        for i in range(1, len(height)):
+        for i in range(left, right + 1):
             if height[i] > height[tall]:
                 tall = i
 
         water = 0
-        # print(tall, left, right)
+        print(tall, left, right)
         j = left + 1
-        while left < tall:
+        while left + 1 < tall:
             if height[j] < height[left]:
                 water += height[left] - height[j]
             else:
@@ -33,7 +33,7 @@ class Solution:
             j += 1
 
         k = right
-        while right > tall:
+        while right - 1 > tall:
             if height[k] < height[right]:
                 water += height[right] - height[k]
             else:
