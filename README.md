@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0890-lemonade-change) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0890-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
