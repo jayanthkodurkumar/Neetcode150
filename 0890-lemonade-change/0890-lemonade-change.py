@@ -1,7 +1,6 @@
 class Solution:
     def lemonadeChange(self, bills: List[int]) -> bool:
         fives, tens = 0, 0
-        # bills.sort()
         for i in range(len(bills)):
             bill = bills[i]
             if bill == 5:
