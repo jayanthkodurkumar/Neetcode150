@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0347-top-k-frequent-elements) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
 | ------- |
