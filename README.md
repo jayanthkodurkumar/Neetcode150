@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0424-longest-repeating-character-replacement) |
@@ -123,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0792-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
