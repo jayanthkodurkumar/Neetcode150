@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0567-permutation-in-string) |
+| [0778-reorganize-string](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0778-reorganize-string) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0567-permutation-in-string) |
+| [0778-reorganize-string](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0778-reorganize-string) |
 ## Sorting
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0455-assign-cookies) |
+| [0778-reorganize-string](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0778-reorganize-string) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0778-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -62,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0778-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -93,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0455-assign-cookies) |
+| [0778-reorganize-string](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0890-lemonade-change) |
 ## Dynamic Programming
 |  |
