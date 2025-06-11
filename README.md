@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0424-longest-repeating-character-replacement) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0455-assign-cookies) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0455-assign-cookies) |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -67,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0778-reorganize-string) |
 ## Quickselect
