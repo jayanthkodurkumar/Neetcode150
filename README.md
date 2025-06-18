@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0547-number-of-provinces) |
 ## Greedy
 |  |
 | ------- |
@@ -158,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0048-rotate-image) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/jayanthkodurkumar/Neetcode150/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
